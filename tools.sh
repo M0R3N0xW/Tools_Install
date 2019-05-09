@@ -316,7 +316,6 @@ then
 clear
 echo $pu"───────────────────────────────────────────"
 echo $cy"NAME      : M0R3N0"
-echo $or"CODENAME  : MUH4K3M0S"
 echo $ku"REGION    : KALIMANTAN BARAT"
 echo $pu"───────────────────────────────────────────"
 fi
